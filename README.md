@@ -1,0 +1,1 @@
+# A-unified-deep-learning-model We have proposed a model called Covtebn for detecting COVID-19, Pneumonia, and Tuberculosis with a single model. Our model gave promising results compared to other models presented in related works.
